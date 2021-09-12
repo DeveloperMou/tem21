@@ -1,0 +1,45 @@
+.logo{
+    text-decoration: none;
+    margin-right: 30px;
+}
+.btn{
+
+}
+.para-nai {
+    font-size: 15px;
+}
+.chill{
+   padding: 56px;
+
+}
+.card-title li {
+    list-style: none;
+}
+.link {
+    padding: 0px 20px;
+}
+section.chill {
+    background-color: #f8f9fa;
+}
+.card-pic {
+    box-shadow: 0px 0px 12px -2px rgb(38 39 39);
+}
+.pagination {
+    display: flex;
+    padding-left: 0;
+    list-style: none;
+    width: 257px;
+    margin: auto;
+}
+.foo{
+    text-align: center;
+    background-color: #212529;
+    color: snow;
+    padding: 40px;
+}
+.carousel-caption {
+    margin-bottom: 252px;
+}
+.imgd{
+    padding-top: 60px;
+}
